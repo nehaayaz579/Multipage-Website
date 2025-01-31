@@ -46,12 +46,12 @@ const About = () => {
           Since 2012 in a charming Hawaii Town, Serene Beauty emerged as a haven
           for beauty and tranquility.
           <br />
-          Founded by Sarah, a passionate hairstylist, the salon's simple yet
+          Founded by Sarah, a passionate hairstylist, the salons simple yet
           profound vision was to enhance natural
           <br />
           beauty while providing a peaceful escape.
           <br />
-          With time, Serene Beauty's dedicated team grew, offering a range of
+          With time, Serene Beautys dedicated team grew, offering a range of
           services from esthetics to makeup. It
           <br />
           became a beloved part of the community, known for its serene ambiance
@@ -90,8 +90,8 @@ const About = () => {
                   Master Stylist of the Year:
                 </h2>
                 <p className="text-gray-500">
-                  Sarah's exceptional talent and dedication to her craft earned
-                  her the prestigious title of "Master Stylist of the Year" at
+                  Sarahs exceptional talent and dedication to her craft earned
+                  her the prestigious title of Master Stylist of the Year at
                   the National Beauty Excellence Awards.
                 </p>
               </div>
@@ -104,7 +104,7 @@ const About = () => {
               <div>
                 <h2 className="font-bold text-xl">Community Impact Award:</h2>
                 <p className="text-gray-500">
-                  Sarah received the "Community Impact Award" for her charitable
+                  Sarah received the Community Impact Award for her charitable
                   work and contributions to local causes through Serene Beauty.
                 </p>
               </div>
@@ -117,8 +117,8 @@ const About = () => {
               <div>
                 <h2 className="font-bold text-xl">Green Beauty Innovator:</h2>
                 <p className="text-gray-500">
-                  Sarah's commitment to eco-friendly and sustainable beauty
-                  practices was acknowledged with the "Green Beauty Innovator"
+                  Sarahs commitment to eco-friendly and sustainable beauty
+                  practices was acknowledged with the Green Beauty Innovator
                   award.
                 </p>
               </div>
