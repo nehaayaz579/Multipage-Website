@@ -45,7 +45,7 @@ const Header = () => {
 
           {/* Mobile Menu Toggle */}
           <button
-            className="md:hidden text-2xl text-blue-500"
+            className="md:hidden text-2xl text-orange-500"
             onClick={() => setMenuOpen(!menuOpen)}
           >
             ☰
